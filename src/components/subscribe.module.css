@@ -1,0 +1,134 @@
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.subscribesection {
+  width: 100%;
+  height: 499px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame39 {
+  gap: 40px;
+  top: 91px;
+  left: 422px;
+  width: 596px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame17 {
+  gap: 5px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.frame16 {
+  gap: 22px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.text {
+  color: rgba(32, 177, 90, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text02 {
+  color: rgba(0, 0, 0, 1);
+  width: 495px;
+  height: auto;
+  font-size: 30px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text04 {
+  color: rgba(139, 139, 139, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Avenir;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame38 {
+  width: 596px;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.frame37 {
+  gap: 10px;
+  width: 596px;
+  display: flex;
+  padding: 20px 16px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 14px;
+}
+.text06 {
+  color: rgba(139, 139, 139, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Roman;
+  text-align: left;
+  font-family: Avenir;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.header-cta {
+  gap: 8.108189582824707px;
+  height: 52.70322799682617px;
+  display: flex;
+  padding: 8.108189582824707px 24.324569702148438px;
+  z-index: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 14px;
+  justify-content: center;
+  background-color: rgba(245, 95, 29, 1);
+}
+.text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16.216379165649414px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,187 @@
+.brand {
+  padding: 40px;
+}
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hero-list {
+  width: 100%;
+  height: 837px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-image: linear-gradient(
+    180deg,
+    rgba(214, 245, 219, 1) 0%,
+    rgba(214, 245, 219, 1) 100%
+  );
+}
+.our-partners {
+  top: 683px;
+  left: 0px;
+  width: 1440px;
+  height: 120px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(247, 255, 248, 1);
+}
+.group1 {
+  top: 44px;
+  left: 115px;
+  width: 1181.93017578125px;
+  height: 31.36347770690918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.logosmonday {
+  top: 0px;
+  left: 530.64794921875px;
+  width: 157px;
+  height: 29px;
+  position: absolute;
+}
+.logosgoogle {
+  top: 2.2552642822265625px;
+  left: 0px;
+  width: 89px;
+  height: 29px;
+  position: absolute;
+}
+.trellologoblue1 {
+  top: 2.2552642822265625px;
+  left: 238.71075439453125px;
+  width: 142px;
+  height: 29px;
+  position: absolute;
+}
+.notion {
+  top: 2.2552642822265625px;
+  left: 837.5259399414062px;
+  width: 80px;
+  height: 29px;
+  position: absolute;
+}
+.slack {
+  top: 2.2552642822265625px;
+  left: 1067.6402587890625px;
+  width: 114px;
+  height: 29px;
+  position: absolute;
+}
+.frame12 {
+  gap: 50px;
+  top: 185px;
+  left: 102px;
+  width: 550px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.headertext-content {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.text {
+  color: rgba(0, 0, 0, 1);
+  width: 550px;
+  height: auto;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 65px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.text2 {
+  color: rgba(0, 0, 0, 1);
+  width: 472px;
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Avenir;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.header-cta {
+  gap: 10px;
+  display: flex;
+  padding: 20px 30px;
+  align-items: center;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(32, 177, 90, 1);
+}
+.text4 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame39 {
+  top: 146px;
+  left: 733px;
+  width: 606px;
+  height: 457px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rectangle1241 {
+  top: 0px;
+  left: 0px;
+  width: 408px;
+  height: 271px;
+  position: absolute;
+  border-radius: 10px;
+}
+.rectangle1243 {
+  top: 293px;
+  left: 0px;
+  width: 246px;
+  height: 164px;
+  position: absolute;
+  border-radius: 10px;
+}
+.rectangle1244 {
+  top: 293px;
+  left: 261px;
+  width: 345px;
+  height: 164px;
+  position: absolute;
+  border-radius: 10px;
+}
+.rectangle1242 {
+  top: 0px;
+  left: 426px;
+  width: 180px;
+  height: 271px;
+  position: absolute;
+  border-radius: 10px;
+}

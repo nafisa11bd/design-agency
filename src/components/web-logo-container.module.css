@@ -1,0 +1,120 @@
+.copyrightDesignAgency {
+  position: absolute;
+  top: 385px;
+  left: 116px;
+  font-weight: 500;
+}
+.webLogo {
+  position: relative;
+}
+.webLogoWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 19.600000381469727px;
+  font-size: var(--font-size-20xl-2);
+}
+.someFooterText {
+  position: absolute;
+  top: 98px;
+  left: 10px;
+  font-family: var(--font-avenir);
+  display: inline-block;
+  width: 100px;
+}
+.frameChild,
+.vectorIcon {
+  position: relative;
+  width: 40.8px;
+  height: 40.8px;
+}
+.vectorIcon {
+  width: 15px;
+  height: 15px;
+}
+.vectorWrapper {
+  border-radius: var(--br-81xl);
+  background-color: var(--color-mediumseagreen);
+  flex-direction: column;
+  padding: var(--padding-smi);
+}
+.frameInner,
+.groupParent,
+.vectorWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.groupParent {
+  flex-direction: row;
+  gap: 15.31px;
+}
+.frameInner {
+  position: absolute;
+  top: 199px;
+  left: 0;
+  flex-direction: column;
+}
+.address,
+.quickLinks {
+  position: absolute;
+  top: 38px;
+  left: 575px;
+  font-weight: 600;
+}
+.address {
+  top: 36px;
+  left: 960px;
+}
+.services {
+  position: relative;
+  font-weight: 500;
+}
+.servicesParent {
+  position: absolute;
+  top: 84px;
+  left: 575px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-avenir);
+}
+.designAgencyHead {
+  margin: 0;
+}
+.designAgencyHeadContainer {
+  position: absolute;
+  top: 92px;
+  left: 960px;
+  font-weight: 500;
+  font-family: var(--font-avenir);
+}
+.frame {
+  position: absolute;
+  top: 57px;
+  left: 106px;
+  width: 1218px;
+  height: 259px;
+  overflow: hidden;
+  font-family: var(--font-poppins);
+}
+.footer {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 441px;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-top: -1px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--font-avenir);
+}
